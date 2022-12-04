@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+#button-color{
+    background-color: #4201FF;
+    color: white;
+}
+#menu-item{
+    border-bottom: 2px solid #4101ff9d;
+    padding-bottom: 8px;
+
+}
+#menu-item:hover{
+    border: none;
+}
+#model-button, .news, .es6, .title-color{
+    color: #4201FF;
+}
+.category-list{
+    cursor: pointer;
+    padding: 5px 12px;
+    border-radius: 50px;
+    background-color: #4101ff13;
+}
+.category-list:hover{
+    background-color: #4201FF;
+    color: white;
+}
+.newsList{
+    border-color: #4201FF;
+}
+.item-number{
+    color: #4201FF;
+}
+.fa-user{
+    background-color: #4201FF;
+    color: aliceblue;
+}
+#border-color{
+    border-color: 5px solid #4201FF;
+}
